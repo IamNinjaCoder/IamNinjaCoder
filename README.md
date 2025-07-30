@@ -1,13 +1,68 @@
-- 👋 Hi, I’m @IamNinjaCoder.... My name is Rajveer And I from India. I am a BCA 2nd year Student After completion of Graduation I will go for MCA in Cyber Security Course.
-- 👀 I’m interested in Hacking and I want to be Cyber Security Expert. My dream Company is Microsoft and I am Super exicted to work in this company wants to learn new technology on they are 
-- working and want to be part of them... and give some my contribution also 
-- 🌱 I’m currently learning  Full Stack web development (MERN) I know its sounds strange and my passion is Hacking and M learning web dev the reason behind this 
-- I want to learn every skills so that I can get what I want learning web dev will give me the knowledge of backend as well as frontend btw I am not interested in Frontend
-- But having some knowledge about every topic makes you feel confident it doesn;t matter you know it better or not but you know what is that and You are not in that field 
-- still you know.... So after learning web dev I will work on some projects so that I can get the practical knowledge whatever i learnt and after this i will start my Hacking Journey....
-- 📫 How to reach me you can follow me on linkedin (https://www.linkedin.com/in/rajveer-singh-rathore-57ab10209) and  instagram that is my personal account (@rajveer_singh_rathore) and you can message me there...
-- 
-<!---
-IamNinjaCoder/IamNinjaCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hey there! 👋 I'm Rajveer</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Cybersecurity+Enthusiast;Web+Developer+%7C+Bug+Hunter;Future+Red+Team+Specialist;Learning+Everyday!+💻" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science Student  
+- 🧑‍💻 Passionate Web Developer & Programmer  
+- 🐞 Love finding and fixing bugs  
+- 🔐 Future Cybersecurity Expert (Red Teamer / Pentester)  
+- 📚 Always learning new tech skills and tools  
+- 🚀 Building practical projects in ELK, TheHive, Suricata, and more  
+- 🧠 Following TryHackMe, HackTheBox, and eJPT journey
+
+---
+
+### 🛠️ My Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali-268BEB?logo=kalilinux&logoColor=white&style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajveerxyz&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajveerxyz&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveerxyz&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- 📌 Advanced Pentesting & Red Teaming  
+- 📌 ELK Stack with Suricata + MISP + TheHive + Cortex  
+- 📌 Cloud & Container Security (AWS, Docker, Kubernetes)  
+- 📌 Creating Realistic Cyber Labs
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=red&style=for-the-badge)](https://tryhackme.com/p/yourprofile)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?logo=hackthebox&logoColor=lime&style=for-the-badge)](https://app.hackthebox.com/profile/yourprofile)
+
+---
+
+<p align="center">
+  🚀 *Let's secure the future together!* 🚀  
+</p>
